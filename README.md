@@ -1,9 +1,7 @@
 # redux - from the future
 a presentation on redux given during NMLV october hack-a-thon
 
-
-
-demo project tech stack rundown
+tech stack rundown
 =======================
 * Node to run our builds and testing, also to fire up webpack dev server
 * npm to manage our dependancies
@@ -22,3 +20,6 @@ demo project tech stack rundown
 * Grunt for leftover build/deploy needs
 * Adobe DTM for analytics
 * Optimizely for multi-variant & a/b testing (experiments) 
+
+
+note: demo project is not in this repo :(
