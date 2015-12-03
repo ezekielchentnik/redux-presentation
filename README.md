@@ -1,7 +1,9 @@
 # redux - from the future
-a presentation on redux
+a presentation on redux given during NMLV october hack-a-thon
 
-tech stack
+
+
+demo project tech stack rundown
 =======================
 * Node to run our builds and testing, also to fire up webpack dev server
 * npm to manage our dependancies
